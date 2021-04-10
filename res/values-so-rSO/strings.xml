@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="live_wallpaper_picker_title">"Dooro sawir shaashadeed live ah"</string>
+<string name="live_wallpaper_picker_label">"Sawirada shaashada oo live ah"</string>
+<string name="live_wallpaper_preview_title">"Fiirinta sawirka shaashada ee live ka ah"</string>
+<string name="configure_wallpaper">"Qaabaynada..."</string>
+<string name="wallpaper_instructions">"Daji sawir shaashadeedka"</string>
+<string name="live_wallpaper_empty">"Sawirka shaashada live ah majiraan."</string>
+<string name="set_live_wallpaper">"Daji sawir shaashadeedka"</string>
+<string name="wallpaper_title_and_author">"<xliff:g id="title" example="Galaxy">%1$s</xliff:g> Leh <xliff:g id="author" example="Google">%2$s</xliff:g>"</string>
+<string name="live_wallpaper_loading">"Raadinaya sawirka shaashada oo live ah..."</string>
+<string name="which_wallpaper_option_home_screen">"Guriga shaashada"</string>
+<string name="which_wallpaper_option_home_screen_and_lock_screen">"Shaashada gudaha iyo shaashada xiran"</string>
+<string name="collapse_attribution_panel">"Burburi macluumaadka bogga midabka darbiga"</string>
+<string name="expand_attribution_panel">"Balaari macluumaadka bogga midabka darbiga"</string>
+</resources>

@@ -18,6 +18,8 @@
 -->
 
 <resources>
+    <color name="ic_launcher_background">#ebebeb</color>
+
     <color name="live_wallpaper_thumbnail_background">#CC666666</color>
     <color name="live_wallpaper_thumbnail_text_color">#FFFFFFFF</color>
 

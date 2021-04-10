@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="live_wallpaper_picker_title">"Walpeepperii kallattii filadhu"</string>
+<string name="live_wallpaper_picker_label">"Walpeepperiiwwan kallattii"</string>
+<string name="live_wallpaper_preview_title">"Ilaalcha dursaa walpeepperii kallattii"</string>
+<string name="configure_wallpaper">"seetingiiwwan…"</string>
+<string name="wallpaper_instructions">"uffiisa waraaqaa guuti"</string>
+<string name="live_wallpaper_empty">"Walpeepperoonni kallattii hin jiran."</string>
+<string name="set_live_wallpaper">"uffiisa waraaqaa guuti"</string>
+<string name="wallpaper_title_and_author">"<xliff:g id="title" example="Galaxy">%1$s</xliff:g> dhaan <xliff:g id="author" example="Google">%2$s</xliff:g>"</string>
+<string name="live_wallpaper_loading">"Walpeppera fe’iinsaa kallattii…"</string>
+<string name="which_wallpaper_option_home_screen">"Iskiriinii mandhee"</string>
+<string name="which_wallpaper_option_home_screen_and_lock_screen">"Iskiriinii jalqabaa fi iskiriinii cuftuu"</string>
+<string name="collapse_attribution_panel">"Paaneli odeeffannoo wolpeeperiihirrisi"</string>
+<string name="expand_attribution_panel">"Panelii odeeffannoo wolpeeperii ballisi"</string>
+</resources>

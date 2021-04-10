@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="live_wallpaper_picker_title">உயிரோட்டமான வால்பேப்பர் தேர்ந்தெடுக்கவும்</string>
+<string name="live_wallpaper_picker_label">உயிரோட்டமான வால்பேப்பர்கள் </string>
+<string name="live_wallpaper_preview_title">உயிரோட்டமான வால்பேப்பர் முன்னோட்ட பார்வை </string>
+<string name="configure_wallpaper">"அமைவுகள்…"</string>
+<string name="wallpaper_instructions">வால் பேப்பர் அமைக்கவும்</string>
+<string name="live_wallpaper_empty">உயிரோட்டமான வால்பேப்பர்கள் இல்லை </string>
+<string name="set_live_wallpaper">வால் பேப்பர் அமைக்கவும்</string>
+<string name="wallpaper_title_and_author">"<xliff:g id="title" example="Galaxy">%1$s</xliff:g> இதனால் <xliff:g id="author" example="Google">%2$s</xliff:g>"</string>
+<string name="live_wallpaper_loading">உயிரோட்டமான வால்பேப்பர் ஏற்றம் செய்கிறது... </string>
+<string name="which_wallpaper_option_home_screen">"ஹோம் ஸ்க்ரீன்"</string>
+<string name="which_wallpaper_option_home_screen_and_lock_screen">"ஹோம் ஸ்க்ரீன் மற்றும் லாக் ஸ்க்ரீன்"</string>
+<string name="collapse_attribution_panel">"வால்பேப்பர் விவர பேனலை சுருக்கவும்"</string>
+<string name="expand_attribution_panel">"வால்பேப்பர் விவர பேனலை விரிவாக்கவும்"</string>
+</resources>

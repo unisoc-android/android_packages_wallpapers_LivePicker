@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="application_name">"Selecionador de papel de parede dinâmico"</string>
+<string name="live_wallpaper_picker_title">"Selecionar o papel de parede vivo"</string>
+<string name="live_wallpaper_picker_label">"Papéis de parede vivos"</string>
+<string name="live_wallpaper_preview_title">"Pré-visualização de papel de parede ao vivo"</string>
+<string name="configure_wallpaper">"Configurações..."</string>
+<string name="delete_live_wallpaper">"excluir"</string>
+<string name="preview">"Visualização"</string>
+<string name="wallpaper_instructions">"Definir papel de parede"</string>
+<string name="live_wallpaper_empty">"Sem papel de parede vivo."</string>
+<string name="set_live_wallpaper">"Definir papel de parede"</string>
+<string name="wallpaper_title_and_author">"<xliff:g id="title" example="Galaxy">%1$s</xliff:g> por <xliff:g id="author" example="Google">%2$s</xliff:g>"</string>
+<string name="live_wallpaper_loading">"Carregando papel de parede vivo..."</string>
+<string name="which_wallpaper_option_home_screen">"Tela inicial"</string>
+<string name="which_wallpaper_option_home_screen_and_lock_screen">"Tela inicial e tela bloqueada"</string>
+<string name="explore_further">"Explorar"</string>
+<string name="tab_info">"Info"</string>
+<string name="tab_customize">"Personalizar"</string>
+<string name="delete_wallpaper_confirmation">"Excluir este papel de parede do telefone?"</string>
+<string name="collapse_attribution_panel">"Ocultar informações do painel papel de parede"</string>
+<string name="expand_attribution_panel">"Expandir informações do painel papel de parede"</string>
+</resources>

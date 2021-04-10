@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="live_wallpaper_picker_title">જીવંત વોલપેપર સિલેક્ટ કરો</string>
+<string name="live_wallpaper_picker_label">જીવંત વોલપેપર્સ</string>
+<string name="live_wallpaper_preview_title">લાઇવ વોલપેપર પૂર્વદર્શન</string>
+<string name="configure_wallpaper">"સેટિંગ્સ…"</string>
+<string name="wallpaper_instructions">વોલપેપર સેટ કરો</string>
+<string name="live_wallpaper_empty">કોઇ લાઇવ વોલપેપર્સ નહીં</string>
+<string name="set_live_wallpaper">વોલપેપર સેટ કરો</string>
+<string name="wallpaper_title_and_author"><xliff:g id="title" example="Galaxy">%1$s</xliff:g> દ્વારા <xliff:g id="author" example="Google">%2$s</xliff:g></string>
+<string name="live_wallpaper_loading">લાઇવ વોલપેપર લોડીંગ થાય છે...</string>
+<string name="which_wallpaper_option_home_screen">નો હોમ સ્ક્રીન </string>
+<string name="which_wallpaper_option_home_screen_and_lock_screen">"હોમ સ્ક્રીન અને લોક સ્ક્રીન"</string>
+<string name="collapse_attribution_panel">"વોલપેપર માહિતી પેનલ તોડવા"</string>
+<string name="expand_attribution_panel">"વોલપેપર માહિતી પેનલ વિસ્તરણ"</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="live_wallpaper_picker_title">সরাসরি ওয়ালপেপার নির্বাচন করুন</string>
+<string name="live_wallpaper_picker_label">সরাসরি ওয়ালপেপারসমূহ</string>
+<string name="live_wallpaper_preview_title">সরাসরি ওয়ালপেপার পূর্বেই দেখা</string>
+<string name="configure_wallpaper">সেটিংস…</string>
+<string name="wallpaper_instructions">"ওয়ালপেপার সেট করুন"</string>
+<string name="live_wallpaper_empty">কোন লাইভ ওয়ালপেপার নেই</string>
+<string name="set_live_wallpaper">"ওয়ালপেপার সেট করুন"</string>
+<string name="wallpaper_title_and_author">"<xliff:g id="title" example="Galaxy">%1$s</xliff:g> দ্বারা <xliff:g id="author" example="Google">%2$s</xliff:g>"</string>
+<string name="live_wallpaper_loading">লাইভ ওয়ালপেপার লোড হচ্ছে... </string>
+<string name="which_wallpaper_option_home_screen">"হোম পর্দা"</string>
+<string name="which_wallpaper_option_home_screen_and_lock_screen">"হোম স্ক্রীন ও লক স্ক্রীন"</string>
+<string name="collapse_attribution_panel">"ওয়ালপেপারের তথ্যের প্যানেল বন্ধ করুন"</string>
+<string name="expand_attribution_panel">"ওয়ালপেপারের তথ্যের প্যানেল বড় করুন"</string>
+</resources>

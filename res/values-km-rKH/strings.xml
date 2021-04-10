@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="live_wallpaper_picker_title">ជ្រើសរើសក្រដាសរស់រវើក</string>
+<string name="live_wallpaper_picker_label">ក្រដាសរស់រវើក</string>
+<string name="live_wallpaper_preview_title">មើលក្រដាសរស់រវើកទុកជាមុន</string>
+<string name="configure_wallpaper">កំពុងកំណត់…</string>
+<string name="wallpaper_instructions">"កំណត់​ផ្ទាំង​រូបភាព"</string>
+<string name="live_wallpaper_empty">គ្មានក្រដាសផ្ទាំងរស់រវើក</string>
+<string name="set_live_wallpaper">"កំណត់​ផ្ទាំង​រូបភាព"</string>
+<string name="wallpaper_title_and_author">"<xliff:g id="title" example="Galaxy">%1$s</xliff:g> ផ្តល់ដោយ <xliff:g id="author" example="Google">%2$s</xliff:g>"</string>
+<string name="live_wallpaper_loading">កំពុងផ្ទុកក្រដាសផ្ទៃជីវចលនា…</string>
+<string name="which_wallpaper_option_home_screen">"ស្គ្រីនដើម"</string>
+<string name="which_wallpaper_option_home_screen_and_lock_screen">"អេក្រង់​ដើម និង​អេក្រង់សោ"</string>
+<string name="collapse_attribution_panel">"បង្រួម​ផ្ទាំង​ព័ត៌មាន​រូបភាព​ផ្ទៃ​ខាងក្រោយ"</string>
+<string name="expand_attribution_panel">"ពង្រីក​ផ្ទាំង​ព័ត៌មាន​រូបភាព​ផ្ទៃ​ខាងក្រោយ"</string>
+</resources>

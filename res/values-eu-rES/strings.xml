@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="live_wallpaper_picker_title">Hautatu horma-paper dinamikoa</string>
+<string name="live_wallpaper_picker_label">Horma-paper dinamikoak</string>
+<string name="live_wallpaper_preview_title">Horma-paper dinamikoen aurrebista</string>
+<string name="configure_wallpaper">Ezarpenak</string>
+<string name="wallpaper_instructions">ezarri horma-papera</string>
+<string name="live_wallpaper_empty">Ez dago horma-paper dinamikorik</string>
+<string name="set_live_wallpaper">ezarri horma-papera</string>
+<string name="wallpaper_title_and_author"><xliff:g id="title" example="Galaxy">%1$s</xliff:g> nork: <xliff:g id="author" example="Google">%2$s</xliff:g></string>
+<string name="live_wallpaper_loading">Horma-paper dinamiko kargatzen</string>
+<string name="which_wallpaper_option_home_screen">Hasierako pantaila</string>
+<string name="which_wallpaper_option_home_screen_and_lock_screen">"Hasierako pantaila eta blokeatutako pantaila"</string>
+<string name="collapse_attribution_panel">"Tolestu horma-paperaren informazio panela"</string>
+<string name="expand_attribution_panel">"Zabaldu horma-paperaren informazio panela"</string>
+</resources>

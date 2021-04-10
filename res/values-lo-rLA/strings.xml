@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="live_wallpaper_picker_title">"ເລືອກຮູບພາບເບື້ອງຫຼັງທີ່ເຄື່ອນໄຫວ "</string>
+<string name="live_wallpaper_picker_label">"ຮູບພາບເບື້ອງຫຼັງທີ່ເຄື່ອນໄຫວ "</string>
+<string name="live_wallpaper_preview_title">"ການລອງເບີ່ງຮູບພາບເບື້ອງຫຼັງທີ່ເຄື່ອນໄຫວ "</string>
+<string name="configure_wallpaper">"ການຕັ້ງຄ່າ… "</string>
+<string name="wallpaper_instructions">"ຕັ້ງພາບພື້ນຫຼັງ"</string>
+<string name="live_wallpaper_empty">"ບໍ່ມີຮູບພາບເບື້ອງຫຼັງທີ່ເຄື່ອນໄຫວ. "</string>
+<string name="set_live_wallpaper">"ຕັ້ງພາບພື້ນຫຼັງ"</string>
+<string name="wallpaper_title_and_author">"<xliff:g id="title" example="Galaxy">%1$s</xliff:g> ໂດຍ <xliff:g id="author" example="Google">%2$s</xliff:g>"</string>
+<string name="live_wallpaper_loading">"ກໍາລັງໂຫຼດຮູບພາບເບື້ອງຫຼັງທີ່ເຄື່ອນໄຫວ… "</string>
+<string name="which_wallpaper_option_home_screen">ຫ​ນ້າ​ຈໍ​ຫລັກ</string>
+<string name="which_wallpaper_option_home_screen_and_lock_screen">"ຈໍພາຍຫຼັກ ແລະ ຈໍພາບລັອກ"</string>
+<string name="collapse_attribution_panel">"ລວບລວມຮູບພາບໃນກະດານຮູບ "</string>
+<string name="expand_attribution_panel">"ຂະຫຍາຍຮູບພາບໃນກະດານຮູບ "</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="live_wallpaper_picker_title">"ናይ ቀጥታ ወረቐት መንደቕ ምረጽ"</string>
+<string name="live_wallpaper_picker_label">"ቀጥታ ወረቐት መንደቕ"</string>
+<string name="live_wallpaper_preview_title">"ናይ መንደቕ ወረቐት ምርኢ"</string>
+<string name="configure_wallpaper">"ቅንብራት…"</string>
+<string name="wallpaper_instructions">"ዌልፔፐር ምላእ"</string>
+<string name="live_wallpaper_empty">"ናይ ወረቐት መንደቕ የለን"</string>
+<string name="set_live_wallpaper">"ዌልፔፐር ምላእ"</string>
+<string name="wallpaper_title_and_author">"<xliff:g id="title" example="Galaxy">%1$s</xliff:g> ብ <xliff:g id="author" example="Google">%2$s</xliff:g>"</string>
+<string name="live_wallpaper_loading">"ናይ ቀጥታ ወረቐት መንደቕ ኣብ ምውራድ"</string>
+<string name="which_wallpaper_option_home_screen">"ሆም ስክሪን"</string>
+<string name="which_wallpaper_option_home_screen_and_lock_screen">"ምድሪ-ቤታዊ መስኮት ከምኡ\'ውን ዓጻዊ መስኮት ርእየት"</string>
+<string name="collapse_attribution_panel">"ንሰሌዳ ሓበሬታ ናይ ድሕረ-ባይታኣዊ ስእሊ መስኮት ጨብጥዎ"</string>
+<string name="expand_attribution_panel">"ንሰሌዳ ሓበሬታ ናይ ድሕረ-ባይታኣዊ ስእሊ መስኮት ዘርግሕዎ"</string>
+</resources>

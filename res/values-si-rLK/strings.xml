@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="live_wallpaper_picker_title">"සජීවී තිර රූප තෝරන්න"</string>
+<string name="live_wallpaper_picker_label">"සජීවී තිර රූප"</string>
+<string name="live_wallpaper_preview_title">"සජීවී තිර රූප පුර්වප්‍රදර්ශනය"</string>
+<string name="configure_wallpaper">""සැකසුම…" "</string>
+<string name="wallpaper_instructions">"බිතුපත පිහිටුවන්න"</string>
+<string name="live_wallpaper_empty">"සජීවී තිර රූප නැත."</string>
+<string name="set_live_wallpaper">"බිතුපත පිහිටුවන්න"</string>
+<string name="wallpaper_title_and_author">"<xliff:g id="title" example="Galaxy">%1$s</xliff:g> මගින් <xliff:g id="author" example="Google">%2$s</xliff:g>"</string>
+<string name="live_wallpaper_loading">"සජීවී තිර රූපය යෙදෙමින් පවතී…"</string>
+<string name="which_wallpaper_option_home_screen">"මුල් තිරය"</string>
+<string name="which_wallpaper_option_home_screen_and_lock_screen">"මුල් තිරය සහ අගුල් තිරය"</string>
+<string name="collapse_attribution_panel">"තිර රූප විස්තර තීරය අකුලන්න"</string>
+<string name="expand_attribution_panel">"තිර රූප විස්තර තීරය විශාල කරන්න"</string>
+</resources>
